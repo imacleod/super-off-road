@@ -6,8 +6,6 @@
 #include "WheeledVehicle.h"
 #include "SuperOffRoadPawnTruck.generated.h"
 
-class UInputComponent;
-
 
 /** Base class for player and AI controlled trucks */
 UCLASS()
